@@ -1,5 +1,7 @@
 package main
 
+import "github.com/sadpenguinn/go_velobot/internal/model"
+
 func main() {
 
 	stations := new(Stations)
