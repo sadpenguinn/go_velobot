@@ -1,4 +1,4 @@
-module Velobot
+module go_velobot
 
 go 1.18
 
